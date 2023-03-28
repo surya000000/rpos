@@ -33,8 +33,7 @@ Package
 - `mvn package -X -Dmaven.buildNumber.skip -f "/pom.xml"`
 
 Webswing config
-- `https://github.com/surya000000/rpos/blob/master/floreantpos/webswing/webswing.config#L27`
-
+- [Webswing Config](github.com/surya000000/rpos/blob/master/floreantpos/webswing/webswing.config#L27)
 
 ### Running Dockerfile
 - `docker build . -t pos_system`
