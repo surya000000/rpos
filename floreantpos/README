@@ -1,0 +1,34 @@
+FloreantPOS, a free open source Point of Sale system originally developed by OROCUBE LLC.  They now focus on their proprietary software and have not updated the open source version in a few years.  See their website (http://floreant.org and https://pos.orocube.com) for documentation and other info about floreantpos.  
+
+This was cloned from sourceforge (https://sourceforge.net/projects/floreantpos/) at svn revision / release level 1897, the last update to the open source software.  A git repo was initialized to facilitate ongoing source code changes.
+
+Updated all *.jar files to most current release that did not cause any errors / identifiable problems.  A few minor source coding changes to fix updated jar errors.
+
+Download from www.yooperlinux.com, menu option Downloads
+
+Please let me know if you encounter errors / problems.  I will consider / take change requests but will not guarantee success.  Send email to (remove the blanks)
+    floreant @ yooperlinux . com
+
+This was tested on / with the following systems / software:
+    linux debian buster 64 bit (my primary system)
+    openjdk 11.0.9.1 2020-11-04
+    OpenJDK Runtime Environment (build 11.0.9.1+1-post-Debian-1deb10u2)
+    OpenJDK 64-Bit Server VM (build 11.0.9.1+1-post-Debian-1deb10u2, mixed mode, sharing)
+    Apache Maven 3.6.0
+    Database MySQL / MariaDB version 10.3.27 
+
+    Minimal testing on windows as I don't normally run windows computers.
+    
+    Windows 7, 32 bit
+    Oracle java se 8 sdk
+    mysql remote connection to above linux system
+    Run floreantpos-setup.bat file to connect / create database
+    Run / test pos as desired
+    
+    Windows 10, 64 bit
+    jre 8 update 271
+    mysql remote connection to above linux system
+    Run floreantpos-setup.bat file to connect / create database
+    Run / test pos as desired   
+    
+
