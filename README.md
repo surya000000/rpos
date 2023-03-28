@@ -5,6 +5,7 @@ Clone of updated and some bug fix version of https://github.com/PatGoup/Floreant
 
 Runs on apache derby database from docker. Need to install database as requirement.
 
+![POS](https://fv9-3.failiem.lv/thumb_show.php?i=zy4k7tssb&view "POS")
 
 ### Requirements
 Requirement define as tested in these installed machine. Might work on version downgrade or upgrade of some packages.
